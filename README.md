@@ -1,2 +1,2 @@
 # ecommerce
-Eshop app functional and acceptance tests - Updated
+Eshop app functional and acceptance tests 
